@@ -1,0 +1,9 @@
+.auth-container {
+  width: 100vw;
+  height: 100vh;
+  background: #92D5E6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+}
